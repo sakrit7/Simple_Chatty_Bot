@@ -10,7 +10,7 @@ def remind_name():
 
 
 def guess_age():
-    print('Let me guess your age.')
+    print('Let bot guess your age.')
     print('Enter remainders of dividing your age by 3, 5 and 7.')
 
     rem3 = int(input())
